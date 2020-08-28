@@ -1,3 +1,4 @@
 hello world! I'm learning to get hand on git hub.
 this is to learn how to edit exist file.
 i'm going to add this commit in another branch.
+now I've merged both of them
